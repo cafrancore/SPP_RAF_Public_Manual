@@ -46,7 +46,7 @@ It includes:\
 It is recommended to review the data management chapter to understand the use of the dictionary and the logic behind the graphs.
 
 **Additional Material:**\
-The manual is accompanied by R code files and datasets used to explain its contents, available in this [link](https://github.com/ESCWASP/SPP_RAF)
+The manual is accompanied by R code files and datasets used to explain its contents, available in this <https://github.com/cafrancore/SPP_RAF_Public_Manual>
 
 ## **0. Introduction and Programme Context**
 
@@ -250,7 +250,7 @@ Accordingly, this chapter, when placed in a report, can be referred to as Chapte
 Here, the dataset is described through graphs and tables, setting the stage for the subsequent analysis.
 For this chapter, as well as for the following chapters, the Excel files used are `DATA_BASES.xlsx` and `Beneficiaries.xlsx` (located in `Inputs/Data`) and `Dictionary.xlsx` (located in `Inputs/Dictionary`).
 
-**Full code available at:** [Git hub SPP_RAF](https://github.com/ESCWASP/SPP_RAF)
+**Full code available at:**[ https://github.com/cafrancore/SPP_RAF_Public_Manual](https://github.com/cafrancore/SPP_RAF_Public_Manual)
 
 Before starting any project, it is highly recommended to have an organized folder structure.
 The suggested arrangement, as found in the teaching aid material, includes separate folders for input, code, and output.
